@@ -15,11 +15,12 @@ graph TD
     A --> D[Advanced Concepts]
     
     B --> B1[Inheritance]
-    B --> B2[Method Overloading]
-    B --> B3[Method Overriding]
-    B --> B4[Access Modifiers]
-    B --> B5[Properties & Encapsulation]
-    B --> B6[Constructors]
+    B --> B2[Polymorphism]
+    B --> B3[Method Overloading]
+    B --> B4[Method Overriding]
+    B --> B5[Access Modifiers]
+    B --> B6[Properties & Encapsulation]
+    B --> B7[Constructors]
     
     C --> C1[LinkedList]
     C --> C2[Stack]
